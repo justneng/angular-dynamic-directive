@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## [for learning about angular ComponentFactoryResolver and ViewContainerRef] 
-create custom directive with create dynamic component
+#### references:https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d
 
 ## Development server
 
